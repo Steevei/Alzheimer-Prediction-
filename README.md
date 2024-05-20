@@ -40,7 +40,22 @@ We are using three different models to predict the age group:
 ## Acknowledgements
 - The dataset is provided by [Kaggle](https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers/data?select=oasis_cross-sectional.csv).
 - The rest of the information that was used for reference can be found in the following links below:
-
+  
+- https://medium.com/analytics-vidhya/logistic-regression-in-python-using-pandas-and-seaborn-for-beginners-in-ml-64eaf0f208d2
+- https://www.youtube.com/watch?v=29ZQ3TDGgRQ&list=LL&index=2&t=1666s
+- https://www.youtube.com/watch?v=zM4VZR0px8E
+- https://www.ibm.com/topics/random-forest
+- https://www.geeksforgeeks.org/random-forest-algorithm-in-machine-learning/
+- https://scikit-learn.org/stable/modules/tree.html
+- https://www.youtube.com/watch?v=PHxYNGo8NcI
+- https://statisticsbyjim.com/basics/outliers/
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html#sklearn.model_selection.cross_validatehttps://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html#sklearn.model_selection.cross_validate
+- https://towardsdatascience.com/decision-tree-classifier-explained-in-real-life-picking-a-vacation-destination-6226b2b60575
+- https://note.nkmk.me/en/python-pandas-value-counts/
+- https://scikit-learn.org/stable/modules/preprocessing.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
+- 
 ---
 
-*Stefan Petrovski, University of Primorska UP-FAMNIT, Bioinformatics.*
+*Stefan Petrovski, University of Primorska UP-FAMNIT, Bioinformatics, 2024*
