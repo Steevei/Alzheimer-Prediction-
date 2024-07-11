@@ -6,7 +6,6 @@ This repository contains a Jupyter Notebook for predicting age groups of individ
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Models Used](#models-used)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
