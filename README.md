@@ -10,7 +10,9 @@ This repository contains a Jupyter Notebook for predicting age groups of individ
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
-This project aims to predict the age group of individuals using MRI data with a focus on Alzheimer's disease. The models used for this task are:
+This project aims to predict the age group of individuals using MRI data with a focus on Alzheimer's disease. The idea is to determine which age group is most likely to develop an Alzheimer disease based on the provided data set and attributes. With using different techniques such as data analysis, refinement and model training we want to predict the critical group.
+
+The algorithms used for this task are:
 - Decision Tree Classifier
 - Logistic Regression
 - Random Forest Classifier
@@ -55,7 +57,10 @@ We are using three different models to predict the age group:
 - https://note.nkmk.me/en/python-pandas-value-counts/
 - https://scikit-learn.org/stable/modules/preprocessing.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
-- 
+- https://www.youtube.com/watch?v=D1ZmxwHAEJA
+- https://towardsdatascience.com/how-to-build-a-machine-learning-model-439ab8fb3fb1
+- https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+- https://www.google.com/imgres?q=crispdm&imgurl=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F48b9293cfd4297f855867ca278f7069abc6a9c24%2F6-Figure3-1.png&imgrefurl=https%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FCRISP-DM%253A-Towards-a-Standard-Process-Model-for-Data-Wirth-Hipp%2F48b9293cfd4297f855867ca278f7069abc6a9c24&docid=6UUMM-gIl-6bkM&tbnid=Os5WBAaF_0CUDM&vet=12ahUKEwianKyzwdqFAxVDgP0HHdjBCL4QM3oECHUQAA..i&w=1092&h=794&hcb=2&ved=2ahUKEwianKyzwdqFAxVDgP0HHdjBCL4QM3oECHUQAA
 ---
 
 *Stefan Petrovski, University of Primorska UP-FAMNIT, Bioinformatics, 2024*
