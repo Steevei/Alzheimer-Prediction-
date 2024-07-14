@@ -60,6 +60,8 @@ We are using three different models to predict the age group:
 - https://towardsdatascience.com/how-to-build-a-machine-learning-model-439ab8fb3fb1
 - https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
 - https://www.google.com/imgres?q=crispdm&imgurl=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F48b9293cfd4297f855867ca278f7069abc6a9c24%2F6-Figure3-1.png&imgrefurl=https%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FCRISP-DM%253A-Towards-a-Standard-Process-Model-for-Data-Wirth-Hipp%2F48b9293cfd4297f855867ca278f7069abc6a9c24&docid=6UUMM-gIl-6bkM&tbnid=Os5WBAaF_0CUDM&vet=12ahUKEwianKyzwdqFAxVDgP0HHdjBCL4QM3oECHUQAA..i&w=1092&h=794&hcb=2&ved=2ahUKEwianKyzwdqFAxVDgP0HHdjBCL4QM3oECHUQAA
+- https://stackoverflow.com/questions/69061767/how-to-plot-feature-importance-for-decisiontreeclassifier
+- https://medium.com/data-science-in-your-pocket/how-feature-importance-is-calculated-in-decision-trees-with-example-699dc13fc078
 ---
 
 *Stefan Petrovski, University of Primorska UP-FAMNIT, Bioinformatics, 2024*
