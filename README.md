@@ -53,7 +53,6 @@ We are using three different models to predict the age group:
 - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html#sklearn.model_selection.cross_validatehttps://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html#sklearn.model_selection.cross_validate
 - https://towardsdatascience.com/decision-tree-classifier-explained-in-real-life-picking-a-vacation-destination-6226b2b60575
-- https://note.nkmk.me/en/python-pandas-value-counts/
 - https://scikit-learn.org/stable/modules/preprocessing.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
 - https://www.youtube.com/watch?v=D1ZmxwHAEJA
@@ -62,6 +61,9 @@ We are using three different models to predict the age group:
 - https://www.google.com/imgres?q=crispdm&imgurl=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F48b9293cfd4297f855867ca278f7069abc6a9c24%2F6-Figure3-1.png&imgrefurl=https%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FCRISP-DM%253A-Towards-a-Standard-Process-Model-for-Data-Wirth-Hipp%2F48b9293cfd4297f855867ca278f7069abc6a9c24&docid=6UUMM-gIl-6bkM&tbnid=Os5WBAaF_0CUDM&vet=12ahUKEwianKyzwdqFAxVDgP0HHdjBCL4QM3oECHUQAA..i&w=1092&h=794&hcb=2&ved=2ahUKEwianKyzwdqFAxVDgP0HHdjBCL4QM3oECHUQAA
 - https://stackoverflow.com/questions/69061767/how-to-plot-feature-importance-for-decisiontreeclassifier
 - https://medium.com/data-science-in-your-pocket/how-feature-importance-is-calculated-in-decision-trees-with-example-699dc13fc078
+- https://machinelearningmastery.com/training-validation-test-split-and-cross-validation-done-right/
+- https://neptune.ai/blog/cross-validation-in-machine-learning-how-to-do-it-right
+- https://www.youtube.com/watch?v=h9IMx30nV8E
 - https://machinelearningmastery.com/training-validation-test-split-and-cross-validation-done-right/
 - 
 ---
